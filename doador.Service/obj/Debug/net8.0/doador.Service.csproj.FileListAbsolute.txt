@@ -1,0 +1,11 @@
+C:\Users\francisco.erabelo\OneDrive\DoadorAPI\doador.API\doador.Service\bin\Debug\net8.0\doador.Service.deps.json
+C:\Users\francisco.erabelo\OneDrive\DoadorAPI\doador.API\doador.Service\bin\Debug\net8.0\doador.Service.dll
+C:\Users\francisco.erabelo\OneDrive\DoadorAPI\doador.API\doador.Service\bin\Debug\net8.0\doador.Service.pdb
+C:\Users\francisco.erabelo\OneDrive\DoadorAPI\doador.API\doador.Service\obj\Debug\net8.0\doador.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco.erabelo\OneDrive\DoadorAPI\doador.API\doador.Service\obj\Debug\net8.0\doador.Service.AssemblyInfoInputs.cache
+C:\Users\francisco.erabelo\OneDrive\DoadorAPI\doador.API\doador.Service\obj\Debug\net8.0\doador.Service.AssemblyInfo.cs
+C:\Users\francisco.erabelo\OneDrive\DoadorAPI\doador.API\doador.Service\obj\Debug\net8.0\doador.Service.csproj.CoreCompileInputs.cache
+C:\Users\francisco.erabelo\OneDrive\DoadorAPI\doador.API\doador.Service\obj\Debug\net8.0\doador.Service.dll
+C:\Users\francisco.erabelo\OneDrive\DoadorAPI\doador.API\doador.Service\obj\Debug\net8.0\refint\doador.Service.dll
+C:\Users\francisco.erabelo\OneDrive\DoadorAPI\doador.API\doador.Service\obj\Debug\net8.0\doador.Service.pdb
+C:\Users\francisco.erabelo\OneDrive\DoadorAPI\doador.API\doador.Service\obj\Debug\net8.0\ref\doador.Service.dll
