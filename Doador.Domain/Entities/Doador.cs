@@ -9,11 +9,11 @@ namespace Doador.Domain.Entities
     public class Doador
     {
         public int DoadorId { get; set; }
-        public string Nome { get; set; }
-        public string Cidade { get; set; }
-        public string Estado { get; set; }
-        public int CEP { get; set; }
-        public string Email { get; set; }
-        public int Telefone { get; set; }
+        public required string NomeDoador { get; set; }
+        public required string Cidade { get; set; }
+        public required string Estado { get; set; }
+        public required int CEP { get; set; }
+        public required string Email { get; set; }
+        public required int Telefone { get; set; }
     }
 }

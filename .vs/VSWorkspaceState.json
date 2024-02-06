@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Doador.Domain",
+    "\\Doador.Domain\\Entities"
   ],
+  "SelectedNode": "\\Doador.Domain\\Entities\\Doador.cs",
   "PreviewInSolutionExplorer": false
 }

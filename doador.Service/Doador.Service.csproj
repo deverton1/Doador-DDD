@@ -7,11 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Service\" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.5" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.5" />
+    <ProjectReference Include="..\Doador.Domain\Doador.Domain.csproj" />
+    <ProjectReference Include="..\Doador.Repository\Doador.Repository.csproj" />
   </ItemGroup>
 
 </Project>

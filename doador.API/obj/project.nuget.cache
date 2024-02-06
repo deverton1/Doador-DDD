@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4h15c8oRvnBRzAYLsIv4saGTqpcD0qwjVt8AvmpyCbJyZbR9ypU7EPHLv2J+/pXJbSqUg5ipw6Pkktvw0wCabg==",
+  "dgSpecHash": "q2scI/4Qo8XAqFa/oqVoCtXOajOLeouWSRdDfEOdQgNoPLSS8+TR7vl/Ri/ut9mKp8z4aZEx5PFqE9EJMj11WA==",
   "success": true,
   "projectFilePath": "C:\\Users\\francisco.erabelo\\OneDrive\\DoadorAPI\\doador.API\\doador.API\\Doador.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\francisco.erabelo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\francisco.erabelo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\francisco.erabelo\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
     "C:\\Users\\francisco.erabelo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\francisco.erabelo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\francisco.erabelo\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",
