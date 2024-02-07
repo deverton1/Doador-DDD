@@ -1,6 +1,7 @@
-﻿using Doador.Domain.Interfaces;
+﻿using Doador.Domain.Commands;
+using Doador.Domain.Enums;
+using Doador.Domain.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Routing;
 
 namespace Doador.API.Controllers
 {
@@ -13,10 +14,18 @@ namespace Doador.API.Controllers
         {
             _produtoService = produtoService;
         }
-
-        public IActionResult Index()
+        [HttpGet]
+        [Route("Listar-Produtos")]
+        public async Task<IActionResult> GetProdutosDisponiveis()
         {
-            return Ok();
+            return Ok(await _produtoService.GetProdutosDisponiveis());
+        }
+
+        [HttpPost]
+        [Route("Cadastrar-Produto")]
+        public async Task<IActionResult> CadastrarProduto([FromBody] ProdutoCommand command, ECategoriaProduto ECategoria)
+        {
+            return Ok(await _produtoService.CadastrarProduto(command, ECategoria));
         }
     }
 }

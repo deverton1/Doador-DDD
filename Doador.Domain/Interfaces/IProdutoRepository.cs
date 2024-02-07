@@ -1,4 +1,5 @@
 ﻿using Doador.Domain.Commands;
+using Doador.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,5 +11,6 @@ namespace Doador.Domain.Interfaces
     public interface IProdutoRepository
     {
         Task<IEnumerable<ProdutoCommand>> GetProdutosDisponiveis();
+        Task<string> CadastrarProduto(ProdutoCommand command, ECategoriaProduto ECategoria);
     }
 }
